@@ -1,0 +1,20 @@
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.wrap {
+  max-width: 500px;
+  margin: 0 auto;
+  
+}
+
+@import url('../../domain-checker/src/style.scss');
